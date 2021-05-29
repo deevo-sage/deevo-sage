@@ -49,7 +49,8 @@ Hard coding >>> Picking up a template. Basically I prefer the code I wrote rathe
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deevo-sage" alt="jalajcodes" />
+      <img src="https://github-readme-stats.vercel.app/api?username=deevo-sage" alt="sidharth codes" />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deevo-sage&layout=compact" height="170px">
 </p>
 
 <!-- <p align="center"> -->
