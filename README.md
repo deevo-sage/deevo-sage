@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I'm a self-taught web and app developer working with React and React-native for the front-end and Firebase/mongo on express or graphql for the backend. Currently, I'm a second Year student at Bhagwan Parshuram Institute of Technology while also learning and working with various new frameworks and technologies in my free time.
 
 Hard coding >>> Picking up a template. Basically I prefer the code I wrote rather than being dependent on a template somebody else made (I've many of of my on by now) and it's good for practice too🤪️🤪️
-<h5>Do give a visit to my <a href="https://www.sidharthsahni.codes">Portfolio</a> & <a href="https://www.sidharthsahni.codes">blog</a>  </h5>
+<h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a> & <a href="https://www.sidharthsahni.com">blog</a>  </h5>
 
 
 <h2 align="center">Technologies I Work with</h2>
