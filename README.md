@@ -48,11 +48,13 @@ Hard coding >>> Picking up a template. Basically I prefer the code I wrote rathe
    <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 </p>
 
-<p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=deevo-sage" alt="sidharth codes" height="190px">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deevo-sage&layout=compact" height="190px">
-</p>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deevo-sage&show_icons=true&hide_border=true" />
+
+</details>
 <!-- <p align="center"> -->
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> -->
 <!--</p> -->
