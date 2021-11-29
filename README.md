@@ -1,41 +1,23 @@
-[](https://github.com/codewithjalaj/codewithjalaj/blob/master/my.svg)
 
-<!--
-**codewithjalaj/codewithjalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi I'm Sidharth Sahni 👋</h1>
+<h3 align="center">Full Stack Web + Mobile Developer 👨‍💻</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi I'm Sidharth Sahni</h1>
-<h3 align="center">Full Stack Web + Mobile Developer</h3>
-
-<h3 align="center">About Me👨‍🎓</h3>
-
-I'm a self-taught web and app developer working with React and React-native for the front-end and Firebase/mongo on express or graphql for the backend. Currently, I'm a second Year student at Bhagwan Parshuram Institute of Technology while also learning and working with various new frameworks and technologies in my free time.
-
-Hard coding >>> Picking up a template. Basically I prefer the code I wrote rather than being dependent on a template somebody else made (I've many of of my on by now) and it's good for practice too🤪️🤪️
-<h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a> & <a href="https://www.sidharthsahni.com">blog</a>  </h5>
-
+- 🔭 I’m currently working on <a href="https://nados.pepcoding.com">NADOS</a>
+- 🌱 I’m currently learning on focusing my energy
+- 👯 I’m looking to collaborate on creating content
+- 🤔 I’m looking for help with ideating 
+<!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
 
 <h2 align="center">Technologies I Work with</h2>
 <p align="center">
    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gatsby/gatsby-original.svg" alt="java" width="40" height="40"/>
-     <img src="https://graphql.org/img/logo.svg" alt="java" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain-wordmark.svg" alt="css" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gatsby/gatsby-original.svg" alt="java" width="40" height="40"/>
+   <img src="https://graphql.org/img/logo.svg" alt="java" width="40" height="40"/>
    
    <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="css" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="css" width="40" height="40"/>
   
    <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-plain.svg" alt="css" width="40" height="40"/>
   
@@ -47,17 +29,16 @@ Hard coding >>> Picking up a template. Basically I prefer the code I wrote rathe
    
    <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 </p>
+<p align="center">
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=deevo-sage&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deevo-sage&layout=compact&langs_count=8&theme=algolia"/>
+
+   </p>
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deevo-sage&show_icons=true&hide_border=true" />
-
-</details>
-<!-- <p align="center"> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jalajcodes&layout=compact" /> -->
-<!--</p> -->
+<h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a> & <a href="https://www.sidharthsahni.com">blog</a>  </h5>
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
@@ -68,3 +49,4 @@ Hard coding >>> Picking up a template. Basically I prefer the code I wrote rathe
 <p align="center">
 <!-- <img src='https://placekitten.com/200/300' title="Kitten" alt="Please refresh the page if the cat doesn't show up."> -->
 </p>
+
