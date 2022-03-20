@@ -1,33 +1,32 @@
 
 <h1 align="center">Hi I'm Sidharth Sahni 👋</h1>
-<h3 align="center">Full Stack Web + Mobile Developer 👨‍💻</h3>
+<h3 align="center">Software Developer & Tech Enthusiast 👨‍💻</h3>
 
-- 🔭 I’m currently working on <a href="https://nados.pepcoding.com">NADOS</a>
-- 🌱 I’m currently learning on focusing my energy
-- 👯 I’m looking to collaborate on creating content
-- 🤔 I’m looking for help with ideating 
+- 🔭 I’m currently working on The Closet
+
+- 🌱 I’m currently learning Web3, AR/VR, DB designing
+
+- 👯 I’m looking to collaborate on Projects, Youtube 
+
+- 💬 Talk to me about Typescript, Graphql, Web3, Business Opportunites
 <!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
 
 <h2 align="center">Technologies I Work with</h2>
-<p align="center">
-   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/firebase/firebase-plain-wordmark.svg" alt="css" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gatsby/gatsby-original.svg" alt="java" width="40" height="40"/>
-   <img src="https://graphql.org/img/logo.svg" alt="java" width="40" height="40"/>
-   
-   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="css" width="40" height="40"/>
-  
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-plain.svg" alt="css" width="40" height="40"/>
-  
 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-   
-  
-   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-   
-   <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
+<p align="center">
+  <a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=graphql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/graphql.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=postgresql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= https://github.com/deevo-sage?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+
+
 </p>
 <p align="center">
 
@@ -38,7 +37,7 @@
 
 
 
-<h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a> & <a href="https://www.sidharthsahni.com">blog</a>  </h5>
+<h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a>
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
