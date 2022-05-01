@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm Sidharth Sahni 👋</h1>
 <h3 align="center">Software Developer & Tech Enthusiast 👨‍💻</h3>
 
-- 🔭 I’m currently working on The Closet
+- 🔭 I’m currently working on DeUPI
 
 - 🌱 I’m currently learning Web3, AR/VR, DB designing
 
