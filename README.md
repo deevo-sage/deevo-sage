@@ -46,7 +46,7 @@
 
 
 
-<h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a>
+<!-- <h5>Do give a visit to my <a href="https://www.sidharthsahni.com">Portfolio</a> -->
 
 <h2 align="center">Get in Touch</h2>
 <p align="center">
