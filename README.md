@@ -33,16 +33,17 @@
 
 </p>
 
-<details>
+<!-- <details>
   <summary>⚡ GitHub Stats</summary>
-  
+  -->
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deevo-sage&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=8"/>
     <img src="https://github-readme-stats.vercel.app/api?username=deevo-sage&show_icons=true&locale=en&theme=radical" alt="SingularisArt"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=deevo-sage&theme=radical"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=deevo-sage&theme=github" />
   </p>
-</details>
+
+<!-- </details> -->
 
 
 
