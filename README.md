@@ -2,11 +2,11 @@
 <h1 align="center">Hi I'm Sidharth Sahni 👋</h1>
 <h3 align="center">Software Developer & Tech Enthusiast 👨‍💻</h3>
 
-- 🔭 I’m currently working on Appbrew
+- 🔭 I’m currently working on Helium Builder
 
 - 🌱 I’m currently learning Rust,
 
-- 👯 I’m looking to make some part time fun Projects, Youtube  videos
+<!-- - - 👯 I’m looking to make some part time fun Projects, Youtube  videos -->
 
 - 💬 Talk to me about New/Emerging Tech, Typescript, Graphql, Web3, Business Opportunites
 <!-- - 🥅 2021 Goals: Contribute more to Open Source projects -->
